@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-27)
 
 <section class="features">
 
 ### Features
 
--   [`ef6a8d0`](https://github.com/stdlib-js/stdlib/commit/ef6a8d06633359aa718f4aef91a1a257782748b2) - add C implementation for `frechet/pdf` [(#10843)](https://github.com/stdlib-js/stdlib/pull/10843)
+-   [`ef6a8d0`](https://github.com/stdlib-js/stdlib/commit/ef6a8d06633359aa718f4aef91a1a257782748b2) - add C implementation for `stats/base/dists/frechet/pdf` [(#10843)](https://github.com/stdlib-js/stdlib/pull/10843)
 
 </section>
 
@@ -34,7 +34,7 @@ This release closes the following issue:
 
 <details>
 
--   [`ef6a8d0`](https://github.com/stdlib-js/stdlib/commit/ef6a8d06633359aa718f4aef91a1a257782748b2) - **feat:** add C implementation for `frechet/pdf` [(#10843)](https://github.com/stdlib-js/stdlib/pull/10843) _(by Siddhartha Mondal, Philipp Burckhardt, stdlib-bot)_
+-   [`ef6a8d0`](https://github.com/stdlib-js/stdlib/commit/ef6a8d06633359aa718f4aef91a1a257782748b2) - **feat:** add C implementation for `stats/base/dists/frechet/pdf` [(#10843)](https://github.com/stdlib-js/stdlib/pull/10843) _(by Siddhartha Mondal, Philipp Burckhardt, stdlib-bot)_
 -   [`18db4f6`](https://github.com/stdlib-js/stdlib/commit/18db4f6ca8230913325b71f53a49ad0aac41b10b) - **bench:** update random value generation for `stats/base/dists/frechet` [(#10335)](https://github.com/stdlib-js/stdlib/pull/10335) _(by Lokesh Ranjan)_
 -   [`7b1ec1e`](https://github.com/stdlib-js/stdlib/commit/7b1ec1ee410f8c2a2e49d70bcf878e57ddb966d9) - **bench:** refactor to use string interpolation in `stats/base/dists/frechet` [(#10122)](https://github.com/stdlib-js/stdlib/pull/10122) _(by Shubham)_
 
