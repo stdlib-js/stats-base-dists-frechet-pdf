@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-07)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`874b5bf`](https://github.com/stdlib-js/stdlib/commit/874b5bfaf1279581224ac8a215c8f19dcc27d399) - **test:** migrate `stats/base/dists/frechet/pdf` to ULP-based assertions [(#15077)](https://github.com/stdlib-js/stdlib/pull/15077) _(by Athan Reines)_
+-   [`6e22696`](https://github.com/stdlib-js/stdlib/commit/6e22696e475dacbea43f660117c957b6af1f3a6f) - **chore:** clean-up [(#14338)](https://github.com/stdlib-js/stdlib/pull/14338) _(by Philipp Burckhardt)_
 -   [`ef6a8d0`](https://github.com/stdlib-js/stdlib/commit/ef6a8d06633359aa718f4aef91a1a257782748b2) - **feat:** add C implementation for `stats/base/dists/frechet/pdf` [(#10843)](https://github.com/stdlib-js/stdlib/pull/10843) _(by Siddhartha Mondal, Philipp Burckhardt, stdlib-bot)_
 -   [`18db4f6`](https://github.com/stdlib-js/stdlib/commit/18db4f6ca8230913325b71f53a49ad0aac41b10b) - **bench:** update random value generation for `stats/base/dists/frechet` [(#10335)](https://github.com/stdlib-js/stdlib/pull/10335) _(by Lokesh Ranjan)_
 -   [`7b1ec1e`](https://github.com/stdlib-js/stdlib/commit/7b1ec1ee410f8c2a2e49d70bcf878e57ddb966d9) - **bench:** refactor to use string interpolation in `stats/base/dists/frechet` [(#10122)](https://github.com/stdlib-js/stdlib/pull/10122) _(by Shubham)_
@@ -48,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Shubham
